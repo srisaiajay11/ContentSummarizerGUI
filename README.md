@@ -11,11 +11,11 @@ A GUI-based AI-powered tool to summarize text, answer questions, and convert sum
 
 ## Installation
 1. Clone the repository: git clone https://github.com/srisaiajay11/ContentSummarizerGUI.git
-    cd ContentSummarizer
+    `cd ContentSummarizer`
 2. Install dependencies:
-    pip install -r requirements.txt
+    `pip install -r requirements.txt`
 3. Run the application:
-    python summarizer_ui.py
+    `python summarizer_ui.py`
 
 ## Requirements
 - Python 3.6+
