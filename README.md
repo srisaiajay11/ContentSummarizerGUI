@@ -1,6 +1,6 @@
 # Content Summarizer, Q&A GUI Chatbot
 
-A GUI-based AI-powered tool to summarize text, answer questions, and convert summaries to audio.
+A GUI-based AI-powered tool to summarize text, answer questions, and convert output to audio.
 
 ## Features
 - Summarize text using the `facebook/bart-large-cnn` model.
